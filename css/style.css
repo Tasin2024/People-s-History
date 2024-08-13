@@ -1,0 +1,25 @@
+.title{
+    background: red;
+    border: 15px solid blueviolet;
+    padding: 20px;
+    margin: 40px;
+    border-radius: 10px;
+    color: aliceblue;
+    box-shadow: 5px 5px 40px black;
+}
+.title2{
+    background: blue;
+    color: white;
+    height: 130px;
+    width: 1050px;
+    padding: 30px;
+    margin: 60px;
+}
+.title3{
+    background: blue;
+    color: white;
+    height: 200px;
+    width: 1050px;
+    padding: 30px;
+    margin: 60px;
+}
